@@ -18,8 +18,10 @@ namespace DBProject_github
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
             
-            Console.WriteeLine("Hello World");
-            Console.WriteeLine("Hello World from Visual Studio.");
+            Console.WriteLine("Hello World");
+            Console.WriteLine("Hello World from Visual Studio.");
+            Console.WriteLine("Hello World");
+            Console.WriteLine("Hello World from Git Hub");
         }
     }
 }
