@@ -24,7 +24,7 @@ namespace DBProject_github
 
         private void buttonDisplay_Click(object sender, EventArgs e)
         {
-            textBoxMain.Text = "Hello World";
+            textBoxMain.Text = "Hello World from Visual Studio";
         }
     }
 }
