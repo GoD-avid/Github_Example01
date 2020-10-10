@@ -17,6 +17,8 @@ namespace DBProject_github
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+            
+            Console.WriteeLine("Hello World");
         }
     }
 }
